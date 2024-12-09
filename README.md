@@ -1,1 +1,2 @@
-# E-commerce-app
+# Proiect: <E-Commerce App>
+Descriere: Acest proiect implementeaza...
